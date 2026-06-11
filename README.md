@@ -20,7 +20,7 @@ The application tracks a live registry of handcrafted premium leather cargo read
 
 Batch ID	Exporter	Finished Product	Volume	Destination	Initial Status
 LXP-2026-042	Ezenwa Handcrafted Luxury	Premium Full-Grain Men's Brogues	1,200 Pairs	United Kingdom	Pending Verification
-LXP-2026-043	Abia Artisanal Leatherwork	Top-Grain Leather Travel Duffle Bags	450 Units	United States	Approved
+LXP-2026-043	Aba Industrial Cluster	Top-Grain Leather Travel Duffle Bags	450 Units	United States	Approved
 LXP-2026-044	Savannah Goods Co.	Minimalist Calfskin Wallets & Belts	3,000 Pcs	Germany	Pending Verification
 🚀 Interactive Features
 Tap-to-Toggle Compliance Auditing: Click the status control badges to instantly transition cargo between Pending Verification and Approved. Watch the top metric counters dynamically update on the fly.
