@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+CBSoft
+/
+leather-export-agent
 
-## Getting Started
+draft/boring-greider
 
-First, run the development server:
+LEATHERWARE XPORT (LXP) 🇳🇬 ✈️
+Finished Goods Compliance & Export Pipeline Dashboard
+A high-performance, resilient, and ultra-lightweight Next.js administrative dashboard built to manage and verify finished leather goods shipments exiting Nigeria to global destinations.
 
-```bash
+This portal provides automated compliance status tracking, batch verification pipelines, and instant exporter cargo profile inspections.
+
+⚡ Architecture & Resiliency Engineering
+To guarantee bulletproof operational uptime during live presentations and network-constrained environments, this dashboard was intentionally migrated away from high-latency cloud state layers to a Zero-JS Fail-Safe Architecture.
+
+Native State Synchronization: Leverages the browser's raw HTML rendering engine (<input type="checkbox"> toggles and <details> disclosures) to compute analytics, change system metrics, and expand shipment documents instantly.
+Immediate Feedback Loop: Bypasses virtual DOM re-render lag to drop forms-pending counts and recalculate the compliance acceptance rate completely on the client side.
+📋 Data Schema Baseline
+The application tracks a live registry of handcrafted premium leather cargo ready for clearance:
+
+Batch ID	Exporter	Finished Product	Volume	Destination	Initial Status
+LXP-2026-042	Ezenwa Handcrafted Luxury	Premium Full-Grain Men's Brogues	1,200 Pairs	United Kingdom	Pending Verification
+LXP-2026-043	Alaba Artisanal Leatherwork	Top-Grain Leather Travel Duffle Bags	450 Units	United States	Approved
+LXP-2026-044	Savannah Goods Co.	Minimalist Calfskin Wallets & Belts	3,000 Pcs	Germany	Pending Verification
+🚀 Interactive Features
+Tap-to-Toggle Compliance Auditing: Click the status control badges to instantly transition cargo between Pending Verification and Approved. Watch the top metric counters dynamically update on the fly.
+Deep-Dive Cargo Profiling: Tap any Exporter's name to instantly expand an advanced administrative profile showing specific product specifications, carrier logistics/air waybill numbers, and customs HS code verification.
+💻 Local Development & Verification
+To run this workspace cleanly on your local machine:
+
+# 1. Install standard dependencies
+npm install
+
+# 2. Fire up the local development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
