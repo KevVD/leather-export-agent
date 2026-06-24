@@ -1,7 +1,12 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  /* config options here */
-};
+const nextConfig = {
+  logging: {
+    fetches: {
+      fullUrl: true,
+    },
+  },
+  allowedDevOrigins: ["nqzs2g-3000.csb.app"],
+} as any;
 
 export default nextConfig;
